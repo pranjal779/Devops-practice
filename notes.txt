@@ -1,0 +1,105 @@
+time stamps
+00:00 Introduction
+2:06 Waterfall Model
+3:35 Limitations of Waterfall Model
+6:39 Agile Methodology
+7:32 Waterfall vs Agile
+8:20 Limitation of Agile Methodology
+11:21 What is DevOps?
+13:06 DevOps Stages
+17:02 Source Code Management
+21:40 Introduction to Git
+23:50 Basic Git Commands
+28:50 Continuous Integration
+30:19 Continuous Delivery
+31:33 Continuous Deployment
+34:06 Jenkins Demo
+35:44 Configuration Management
+41:56 Containerization
+45:15 Docker Demo
+47:38 Continuous Monitoring
+49:28 Introduction to Nagios
+51:53 DevOps Use-Case
+1:00:27 Git & GitHub
+    1:01:21 Version Control System
+    1:03:43 Why Version Control?
+        1:04:08 Collaboration
+        1:05:56 Storing Versions
+        1:08:06 Backup
+        1:09:57 Analyze
+    1:10:54 Version Control Tools
+    1:13:04 Git & GitHub
+    1:17:06 GitHub Case Study
+    1:20:33 What is Git?
+    1:21:33 Features of Git
+    1:32:42 What is a Repository?
+    1:33:26 Central & Local Repository
+    1:35:15 Git Operations & Commands
+    1:36:00 Creating Repositories
+    1:43:32 Syncing Repositories
+    1:47:22 Making Changes
+    1:56:12 Parallel Development
+        1:56:25 Branching
+        2:01:00 Merging
+        2:06:35 Rebasing
+    2:20:36 Git Flow
+2:27:04 Continuous Integration using Jenkins
+    2:27:44 Process Before Continuous Integration
+    2:28:29 Problem Before Continuous Integration
+    2:33:27 What is Continuous Integration?
+    2:34:09 Continuous Integration Case Study
+    2:36:48 What is Jenkins?
+    2:36:58 Jenkins Plugins
+    2:39:52 Jenkins Example
+    2:52:39 Shortcomings of Single Jenkins Server
+    2:53:19 Jenkins Distributed Architecture
+2:56:50 Introduction to Docker
+    2:57:39 Why we need Docker
+    3:01:39 What is Docker?
+    3:05:30 Docker Case Study
+    3:08:50 Docker Registry
+    3:10:22 Docker Image & Containers
+    3:14:33 Docker Compose
+3:21:14 Kubernetes
+    3:21:14 Kubernetes Installation
+3:48:35 Introduction to Kubernetes
+    3:55:20 Kubernetes: Container Management Tool
+    3:57:44 Kubernetes Features
+    4:01:40 Uncovering Myths About Kubernetes
+    4:07:06 Kubernetes vs Docker Swarm
+    4:12:09 Kubernetes Use-Case: Pokemon Go
+    4:18:42 Kubernetes Architecture
+    4:20:15 Working of Kubernetes
+    4:21:40 Kubernetes Hands-on
+4:52:06 Ansible
+    4:53:03 Configuration Management
+    4:54:42 Why Configuration Management
+    5:03:30 Configuration Management Tools
+    5:04:17 What is Ansible?
+    5:04:48 Features of Ansible
+    5:06:32 Ansible Case Study: NASA
+    5:13:32 Ansible Architecture
+    5:17:05 Writing a Playbook
+    5:18:37 Ansible Playbook Example
+    5:20:12 How to use Ansible?
+    5:28:53 Ansible Hands-on
+5:48:23 Introduction to Puppet
+    5:49:07 Why Configuration Management?
+    5:53:06 What is Configuration Management?
+    5:55:22 Configuration Management Components
+    5:56:39 Configuration Management Tools
+    5:57:07 What is Puppet?
+    5:57:55 Puppet Master-Slave Architecture
+    5:59:33 Puppet Master Slave Connection
+    6:03:46 Puppet Use-Case
+    6:05:20 Resources, Classes, Manifests & Modules
+6:21:01 Continuous Monitoring using Nagios
+    6:21:36 Why Continuous Monitoring?
+    6:25:36 What is Continuous Monitoring?
+    6:29:35 Continuous Monitoring Tools
+    6:30:07 What is Nagios?
+    6:31:43 Nagios Features
+    6:32:26 Nagios Architecture
+    6:35:24 Monitoring Remote Linux Hosts
+    6:37:15 Nagios Case Study
+    6:33:26 Nagios Demo
