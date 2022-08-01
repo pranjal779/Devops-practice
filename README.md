@@ -8,6 +8,7 @@ as of now i am following the tutorial of edureka
 
 
 2:43:33 / 6:47:12
+53:00 docker demo
 
 using this repo as practice
 https://github.com/saurabh0010/devops-tutorial
