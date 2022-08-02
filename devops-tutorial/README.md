@@ -7,7 +7,7 @@ I hope this helps.
 as of now i am following the tutorial of edureka
 
 
-2:43:33 / 6:47:12
+2:57:03 / 6:47:12
 
 53:00 docker demo
 is a little problematic for me atleast i had to look at other edureka video to see
