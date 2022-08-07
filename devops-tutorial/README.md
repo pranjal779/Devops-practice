@@ -7,7 +7,9 @@ I hope this helps.
 as of now i am following the tutorial of edureka
 
 
-3:02:44 / 6:47:12
+3:38:29/ 6:47:12
+
+*also check the ubuntu/linux installation in virtual box and the use of web ubuntu emulators (chk bookmark on chrome)
 
 53:00 docker demo
 is a little problematic for me atleast i had to look at other edureka video to see
