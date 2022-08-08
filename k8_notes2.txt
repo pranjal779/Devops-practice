@@ -1,0 +1,4 @@
+tried to follow the text file commads on own, from "Turn off swapoff" step for now not working
+maybe will have to either go with virtualbox/ubuntu_box or will have to rewatch and follow along the setup part
+but I think it is already done
+I just have to setup the K8 dashboard part
