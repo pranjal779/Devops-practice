@@ -1,0 +1,17 @@
+tried to follow the text file commads on own, from "Turn off swapoff" step for now not working
+maybe will have to either go with virtualbox/ubuntu_box or will have to rewatch and follow along the setup part
+but I think it is already done
+I just have to setup the K8 dashboard part
+
+-----x-------
+3:23:19 talks about some important points
+you have cluster, master, slave.... Your master should always have better configuration than your slave.
+so for that reason if you are using virtual machine on your host, then you have to ensure that your master has at least 
+2 GB of ram and 2 core CPU and your slave should have 2 GB of RAM and atleast 1 core CPU.
+-----x-----
+
+try the set part with virtualbox-ubuntu_box setup once.
+
+important timestamps for questions:
+3:52:42 explaination of need of auto-scaling, with example.
+3:57:44 Kubernetes Features.
