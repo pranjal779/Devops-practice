@@ -7,7 +7,7 @@ I hope this helps.
 as of now i am following the tutorial of edureka
 
 
-3:38:29/ 6:47:12
+3:48:32/ 6:47:12
 
 *also check the ubuntu/linux installation in virtual box and the use of web ubuntu emulators (chk bookmark on chrome)
 
