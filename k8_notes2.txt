@@ -9,3 +9,5 @@ you have cluster, master, slave.... Your master should always have better config
 so for that reason if you are using virtual machine on your host, then you have to ensure that your master has at least 
 2 GB of ram and 2 core CPU and your slave should have 2 GB of RAM and atleast 1 core CPU.
 -----x-----
+
+try the set part with virtualbox-ubuntu_box setup once.
