@@ -1,0 +1,1 @@
+5:29:15 *setup of ansible through Oracle VM
