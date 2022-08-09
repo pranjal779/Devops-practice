@@ -16,3 +16,4 @@ important timestamps for questions:
 3:52:42 explaination of need of auto-scaling, with example.
 3:57:44 Kubernetes Features.
 4:12:09 Kubernetes Use-case: Pokemon Go
+4:33:23 getting to kubernetes dashboard and its set up
